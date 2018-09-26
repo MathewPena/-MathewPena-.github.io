@@ -7,6 +7,10 @@ h1{
 	font-family: Oldtown, fantasy;
 }
 
+div{
+	text-align: center;
+}
+
 h2{
 	font-size: 24px;
 	font-family: Times;
