@@ -1,5 +1,5 @@
 body{
-	background-color: #40E0D0;
+	background-color: #D0D0D0;
 }
 
 h1{
@@ -12,7 +12,19 @@ h2{
 	font-family: Times;
 }
 
+h2 span{
+	border: 10px solid #A0A0A0;
+	background-color: #A0A0A0;
+	border-radius: 50px;
+}
+
 h3{
 	font-size: 18px;
 	font-family: Times;
+	text-decoration: underline;
+}
+
+.role{
+	margin-top: -20px;
+	font-style: italic;
 }
